@@ -91,7 +91,7 @@
     </a>
     <!-- TensorFlow -->
     <a href="https://www.tensorflow.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="60" height="40"/>
     </a>
 </p>
 
