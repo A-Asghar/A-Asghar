@@ -85,13 +85,13 @@
     <a href="https://www.knime.com/" target="_blank"> 
         <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/knime_icon_132274.png" style="background-color:#FFFF00" alt="Knime" width="40" height="40" />
     </a>
-    <!-- Photoshop -->
-    <a href="https://www.photoshop.com/en" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-    </a>
     <!-- Cisco Packet Tracer -->
     <a href="https://www.netacad.com/courses/packet-tracer/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="packet tracer" width="40" height="40"/>
+    </a>
+    <!-- TensorFlow -->
+    <a href="https://www.tensorflow.org/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="40" height="40"/>
     </a>
 </p>
 
