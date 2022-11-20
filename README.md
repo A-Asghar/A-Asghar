@@ -102,8 +102,8 @@
 ![MergedImages](https://user-images.githubusercontent.com/69311087/202897502-2ba6ed95-7b60-4753-b7d8-e7971f41d7ac.png)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-asghar&show_icons=true&locale=en&layout=compact" alt="a-asghar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-asghar&show_icons=true&locale=en&layout=compact" alt="a-asghar" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-asghar&show_icons=true&locale=en" alt="a-asghar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-asghar&show_icons=true&locale=en" alt="a-asghar" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-asghar&" alt="a-asghar" /></p>
