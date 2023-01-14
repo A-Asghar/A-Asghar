@@ -103,7 +103,8 @@
 ![MergedImages](https://user-images.githubusercontent.com/69311087/202897502-2ba6ed95-7b60-4753-b7d8-e7971f41d7ac.png)
 
 ### 📱 Django To-do App
-![Home](https://user-images.githubusercontent.com/69311087/212473073-fc89cbde-9543-45ab-ae04-6623b6ace7cf.png)
+![django_todo (1)](https://user-images.githubusercontent.com/69311087/212473526-afaf5770-eb8e-4e87-9d24-7a83e211cf12.png)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-asghar&show_icons=true&locale=en&layout=compact" alt="a-asghar" /></p>
