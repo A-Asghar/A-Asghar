@@ -103,7 +103,7 @@
 
 
 
-### 📱 Django To-do App
+### 🖥️ Django To-do App
 ![django_todo (1)](https://user-images.githubusercontent.com/69311087/212473526-afaf5770-eb8e-4e87-9d24-7a83e211cf12.png)
 
 
