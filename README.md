@@ -98,7 +98,8 @@
 
 ### 📱 Flutter Apps Developed
 
-![MergedImages](https://user-images.githubusercontent.com/69311087/202897142-761e0e19-0a57-4444-9691-20a09305c0b6.png)
+![Google Pixel 4 XL Presentation (2)-min](https://user-images.githubusercontent.com/69311087/216820375-95f162f9-a204-438a-a211-0646909ef093.png)
+
 ![ecommerce_merged_50](https://user-images.githubusercontent.com/69311087/212473760-f802262f-0fb1-4686-b72d-db4ac666db6b.png)
 
 
