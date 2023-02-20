@@ -101,8 +101,9 @@
 
 ![Google Pixel 4 XL Presentation (2)-min](https://user-images.githubusercontent.com/69311087/216820375-95f162f9-a204-438a-a211-0646909ef093.png)
 
-![ecommerce_merged_50](https://user-images.githubusercontent.com/69311087/212473760-f802262f-0fb1-4686-b72d-db4ac666db6b.png)
 
+### 🖥️ MERN Stack Netflix Clone
+![screenshot-61](https://user-images.githubusercontent.com/69311087/220040645-547043ed-9ab9-4c01-91b4-6e21f1437622.png)
 
 
 ### 🖥️ Django To-do App
